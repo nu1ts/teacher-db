@@ -1,0 +1,13 @@
+{
+  "name": "teacher-db",
+  "version": "1.0.0",
+  "description": "Project to manage teacher data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "nano": "^10.1.4"
+  }
+}
